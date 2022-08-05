@@ -1,0 +1,66 @@
+{
+    "nome" : "Lucas",
+    "idade" :39,
+    "linguagensQuePrograma" : ["c","dart",12,false],
+    "jogos":{
+        "ps5":{
+            "fifa22":{
+                "ano":2022,
+                "genero":"esportes",
+                "eDificil": false
+            },
+            "goW":{
+                "ano":2019,
+                "genero":"ação",
+                "eDificil": true
+            },
+            "2k22":{
+                "ano":2022,
+                "genero":"esportes",
+                "eDificil": true
+            }
+
+        },
+        "nintendo": {
+            "mario":{
+                "ano":1985,
+                "genero":"plataforma",
+                "eDificil": true
+            },
+            "goal":{
+                "ano":1986,
+                "genero":"esportes",
+                "eDificil": true
+            },
+            "doubleDragon":{
+                "ano":1987,
+                "genero":"plataforma",
+                "eDificil": false
+            }
+
+        }
+    },
+    "comidasQueGosto":[
+        {
+            "hamburguer":{
+                "origem":"Alemanha",
+                "preco" :20,
+                "comeuEssaSemana":true
+            }
+        },
+        {
+            "pizza":{
+                "origem":"Itália",
+                "preco" :50,
+                "comeuEssaSemana":false
+            }
+        },
+        {
+            "sashimi":{
+                "origem":"Japão",
+                "preco" :40,
+                "comeuEssaSemana":false
+            }
+        }
+    ]
+}
